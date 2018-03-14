@@ -1,0 +1,49 @@
+/*
+Utility
+*/
+
+.margin0{
+    margin: 0px;
+}
+
+.margin30{
+    margin: 30px;
+}
+
+.box300{
+    height: 300px;
+    width:300px;
+}
+
+.box150{
+    height:150px;
+    width:150px;
+}
+
+.container-80{
+    width: 80%;
+}
+
+.border-1px{
+    border: solid 1px red;
+}
+
+.padding-10{
+    padding: 10px;
+}
+
+
+/*HOVER EFFECTS*/
+
+.hovertest {
+
+    transition: background-color .5s;
+  }
+  
+  .hovertest:hover {
+    background-color:red;
+  }
+
+  body{
+      margin:0px;
+  }
